@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NextBus-Catcher/static/css/main.29209e57.css",
+    "main.js": "/NextBus-Catcher/static/js/main.afac4530.js",
+    "static/js/787.90fdf739.chunk.js": "/NextBus-Catcher/static/js/787.90fdf739.chunk.js",
+    "static/media/sound-alert.wav": "/NextBus-Catcher/static/media/sound-alert.60f7268a006d7476452e.wav",
+    "index.html": "/NextBus-Catcher/index.html",
+    "main.29209e57.css.map": "/NextBus-Catcher/static/css/main.29209e57.css.map",
+    "main.afac4530.js.map": "/NextBus-Catcher/static/js/main.afac4530.js.map",
+    "787.90fdf739.chunk.js.map": "/NextBus-Catcher/static/js/787.90fdf739.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29209e57.css",
+    "static/js/main.afac4530.js"
+  ]
+}
