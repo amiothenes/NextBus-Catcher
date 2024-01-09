@@ -1,6 +1,6 @@
 # Bus Prediction App
 
-A beginner React project utilizing the NextBus API to provide bus predictions based on selected agency, route, direction, and bus stop. The app also allows users to set their ETA time and receive alerts when it's time to leave for the bus stop. Testing only on the Toronto Transit Commision (TTC) routes available at NextBus.
+A beginner React project utilizing the NextBus API to provide bus predictions based on selected agency, route, direction, and bus stop. The app also allows users to set their ETA time and receive alerts when it's time to leave for the bus stop. Tested only on the Toronto Transit Commision (TTC) with routes available at NextBus.
 
 ## Features
 
