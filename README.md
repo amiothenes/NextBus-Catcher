@@ -24,6 +24,10 @@ A beginner React project utilizing the NextBus API to provide bus predictions ba
 1. Build the project: `npm run build`
 2. Run the app: `npm start`
 
+## Demo
+
+Try the deployment through GitHub Pages, where's a working copy at https://amiothenes.github.io/NextBus-Catcher/
+
 ## Screenshots
 
 ![Screenshot 1](https://i.imgur.com/352kbmW.gif)
